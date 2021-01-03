@@ -1,0 +1,17 @@
+.styleBtn {
+  margin: 10px;
+  background-color: rgb(97, 97, 153);
+  color: rgb(221, 221, 233);
+  width: 60px;
+  height: 40px;
+}
+
+.styleBtn:hover {
+  transform: scale(1.1);
+  background-color: rgb(77, 204, 60);
+  color: black;
+}
+
+.title {
+  color: blue;
+}
